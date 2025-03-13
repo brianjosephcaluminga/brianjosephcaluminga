@@ -6,9 +6,48 @@
     <title>Brian Joseph Caluminga - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
     <style>
         html {
             scroll-behavior: smooth;
+        }
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #F8F5F2;
+            color: #14213D;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #5B197E;
+            color: #E3C567;
+            text-align: center;
+            padding: 20px;
+        }
+        h1, h2 {
+            font-family: 'Raleway', sans-serif;
+        }
+        h2 {
+            color: #0068FF;
+        }
+        section {
+            padding: 20px;
+        }
+        ul {
+            list-style-type: none;
+        }
+        a {
+            color: #5B197E;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #0068FF;
+        }
+        footer {
+            background-color: #14213D;
+            color: #B0A8B9;
+            text-align: center;
+            padding: 10px;
         }
     </style>
 </head>
