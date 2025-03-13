@@ -20,13 +20,12 @@ And as a Video Editor, I edit long-form content for YouTube and short-form video
 - Canva
 
 ### 📌 Featured Projects:
-Check out some of my work on my [Portfolio](#)!
+Check out some of my work on my [Portfolio](https://brianjosephcalumin.wixsite.com/senttosendco)!
 
 ### 🚀 Let's Connect:
-- 🌐 [Portfolio](#)
-- 📸 [Instagram](#)
-- 🔗 [LinkedIn](#)
-- 🐦 [Twitter](#)
+- 🌐 [Portfolio](https://brianjosephcalumin.wixsite.com/senttosendco)
+- 📸 [Facebook](https://www.facebook.com/profile.php?id=61569891577130)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brian-joseph-caluminga-0b0a96352/)
 
 💌 Feel free to reach out for collaborations or just to say hi!
 
